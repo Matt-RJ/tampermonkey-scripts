@@ -15,4 +15,6 @@ These are mainly focused on improving various small things on different websites
 
 ### [Steam Retry](https://github.com/Matt-RJ/tampermonkey-scripts/tree/master/steam-retry/index.js)
 
+#### [Availabile on Greasyfork](https://greasyfork.org/en/scripts/474705-steam-retry)
+
 * This script automatically refreshes your trade history page on Steam if it fails to load, which happens very often.
