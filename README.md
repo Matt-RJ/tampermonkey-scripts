@@ -13,6 +13,6 @@ These are mainly focused on improving various small things on different websites
 
 ## Scripts
 
-### [Steam Retry](https://github.com/Matt-RJ/tampermonkey-scripts/tree/master/steam-retry)
+### [Steam Retry](https://github.com/Matt-RJ/tampermonkey-scripts/tree/master/steam-retry/index.js)
 
 * This script automatically refreshes your trade history page on Steam if it fails to load, which happens very often.
