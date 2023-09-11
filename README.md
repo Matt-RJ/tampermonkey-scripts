@@ -15,6 +15,13 @@ These are mainly focused on improving various small things on different websites
 
 ### [Steam Retry](https://github.com/Matt-RJ/tampermonkey-scripts/tree/master/steam-retry/index.js)
 
-#### [Availabile on Greasyfork](https://greasyfork.org/en/scripts/474705-steam-retry)
+#### [Available on Greasyfork](https://greasyfork.org/en/scripts/474705-steam-retry)
 
 * This script automatically refreshes your trade history page on Steam if it fails to load, which happens very often.
+
+### [Backpack.tf Page Navigator](https://github.com/Matt-RJ/tampermonkey-scripts/tree/master/backpack-tf-page-navigator/index.js)
+
+#### [Available on Greasyfork](https://greasyfork.org/en/scripts/386858-backpack-tf-keyboard-navigator)
+
+* This script allows you to navigate between pages on backpack.tf using the left and right arrow keys.
+* Works on backpack.tf and next.backpack.tf, on any pages that have 'page' OR 'first' & 'rows' in the URL; classifieds, premium search, etc.
